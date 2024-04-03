@@ -26,6 +26,7 @@ O código-fonte do site consiste em vários arquivos, incluindo index.js para co
 
 O site está configurado para ser executado na porta 5000 localmente.
 
+![Home](/public/images/FotoSite1.jpg)
 ![Home2](/public/images/FotoSite2.jpg)
 ![Noticia](/public/images/FotoSite3.jpg)
 ![Busca](/public/images/FotoSite4.jpg)
